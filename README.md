@@ -21,3 +21,13 @@ Para colocar comentarios
 de varias líneas"""
 
 ```
+## Tipos de Datos 
+### Números
+- Número entero: (negativo, positivo, cero) 0, -5, -9, 1, 5
+- Flotante: Número decimal, 1.5, -1.5, 5.94
+### Cadena
+Es una colección de uno o dos más caracteres bajo comillas simples o dobles
+```python
+`cadena`
+`Karen`
+```
