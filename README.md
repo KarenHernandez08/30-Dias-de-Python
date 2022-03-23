@@ -28,6 +28,43 @@ de varias líneas"""
 ### Cadena
 Es una colección de uno o dos más caracteres bajo comillas simples o dobles
 ```python
-`cadena`
-`Karen`
+'cadena'
+'Karen'
 ```
+### Booleanos
+Es un valor verdadero o falso: `True` or `False`
+### Lista
+Es una colección ordenada que permite almacenar diferentes tipos de elementos de datos
+```python
+[0,1,2,3,4]
+['Sandia','Uva','Mango','Naranja']
+
+```
+
+### Diccionario
+Es una colección desordenada de datos en un formato de par de valores clave
+
+```python
+{
+    'primer nombre':'Karen',
+    'Apellido':'Hernández',
+    'Edad':22,
+    'skills':['JS','Java', 'Python']
+
+}
+```
+### Tupla
+Es una colección ordenada de diferentes tipos de datos como una lista, pero las tuplas `No se pueden modificar una vez que se crean`
+```python
+('Karen', 'Roberto', 'Jocelyn', 'Fernanda') #Nombres
+('Tierra', 'Jupiter', 'Neptuno', 'Marte', 'Venus', 'Saturno', 'Urano', 'Mercurio') # planetas
+```
+### Set
+Un conjunto es una colección de tipos de datos similar a una lista y una tupla, set no es una colección ordenada de elementos
+
+```python
+{1,2,3,4}
+
+```
+
+[Ejercicios](https://github.com/KarenHernandez08/30-Dias-de-Python/tree/main/Dia1)
