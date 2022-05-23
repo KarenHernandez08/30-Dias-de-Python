@@ -1,3 +1,5 @@
+# DÍA 2
+
 ## Funciones integradas
 Alugunas de las funciones integradas de python mas utilizadas son los siguientes:
 ```python
