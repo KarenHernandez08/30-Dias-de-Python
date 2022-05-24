@@ -7,3 +7,11 @@ print('Simbolo de la barra invertida (\\)')
 print('\"Hola Mundo!\"') 
 
 #salida
+Karen Jocelyn 
+ hernandez romero
+lenguaje        Horas   Días
+python  3       5
+java    3       5
+javascript      3       5
+Simbolo de la barra invertida (\)
+"Hola Mundo!"
